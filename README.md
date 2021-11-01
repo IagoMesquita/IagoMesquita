@@ -1,9 +1,9 @@
 ### Olá! Meu nome é Iago Mesquita, tenho 29 anos e sou de Parnaiba-PI👋
 💧Formado em Administração de empresas revolvi migrar para área de **Desenvolvimento Web**, e para isso 
-escolhi a  [Trybe](https://www.betrybe.com/) para me guiar nessa caminha.
+escolhi a  [Trybe](https://www.betrybe.com/) para me guiar nessa caminhada.
 
 Atualmente meu **foco é 100%** nos **estudos**, seja nas  **hard skills** como também nas **soft skills**, focando em uma <br/> **comunicação assertiva**;  **feedbacks**;  **trabalho em equipe**, entre outras.<br/><br/>
-Em **12 meses** vou absorver os conhecimentos necessários para atuar no mercado como um **desenvolvedor FullStack júnior**.
+Ao longo do curso irei absorver os conhecimentos necessários para atuar no mercado como um **desenvolvedor FullStack júnior**.
 ##
 
 🌱 Conchimento: <div style="display: inline_block"><br/>
