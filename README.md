@@ -10,7 +10,7 @@ Ao longo do curso irei absorver os conhecimentos necessários para atuar no merc
 <br/><br/>
 ##
 <div style="display: block">
-   &nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/84816200/146643244-ec677663-5002-4a5d-9450-571102995776.png"      alt="drawing" width="50" 
+   &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/84816200/146643244-ec677663-5002-4a5d-9450-571102995776.png"      alt="drawing" width="50" 
   />
   <p>Front-End<p> 
 <div/>
