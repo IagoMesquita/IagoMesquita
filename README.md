@@ -8,7 +8,7 @@ Ao longo do curso irei absorver os conhecimentos necessários para atuar no merc
 
 🌱 Conchimentos:
 <br/>
-![Icone front-end](GitHub/programming.png)
+![Icone front-end](GitHub/programming.png  raw = true)
 <br/>
 Front-End 
 <div style="display: inline_block"><br/>
