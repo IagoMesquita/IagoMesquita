@@ -6,7 +6,10 @@ Atualmente meu **foco é 100%** nos **estudos**, seja nas  **hard skills** como 
 Ao longo do curso irei absorver os conhecimentos necessários para atuar no mercado como um **desenvolvedor FullStack júnior**.
 ##
 
-🌱 Conchimento: <div style="display: inline_block"><br/>
+🌱 Conchimentos:
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+Front-End 
+<div style="display: inline_block"><br/>
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Iago-Js" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
