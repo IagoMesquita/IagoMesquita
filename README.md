@@ -7,7 +7,7 @@ Ao longo do curso irei absorver os conhecimentos necessários para atuar no merc
 ##
 
 🌱 Conchimentos:
-![Icone front-end](/home/iago007/Área de Trabalho/GitHub/programming.png
+![Icone front-end](/home/iago007/Área de Trabalho/GitHub/programming.png)
 Front-End 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
