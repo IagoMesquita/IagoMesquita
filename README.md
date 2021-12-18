@@ -7,10 +7,14 @@ Ao longo do curso irei absorver os conhecimentos necessários para atuar no merc
 ##
 
 🌱 Conchimentos:
-<br/>
-![image](https://user-images.githubusercontent.com/84816200/146643244-ec677663-5002-4a5d-9450-571102995776.png =50x50)
-<br/>
-Front-End 
+<br/><br/>
+##
+<div style="display: block" align="center">
+  <img src="https://user-images.githubusercontent.com/84816200/146643244-ec677663-5002-4a5d-9450-571102995776.png"      alt="drawing" width="50" 
+  />
+  <p>Front-End<p> 
+<div/>
+  
 <div style="display: inline_block"><br/>
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Iago-Js" height="30" width="40" 
