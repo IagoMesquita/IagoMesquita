@@ -6,7 +6,7 @@ Atualmente meu **foco é 100%** nos **estudos**, seja nas  **hard skills** como 
 Ao longo do curso irei absorver os conhecimentos necessários para atuar no mercado como um **desenvolvedor FullStack júnior**.
 ##
 
-🌱 Conchimentos:
+🌱 Conhecimentos:
 <br/><br/>
 ##
 <div style="display: block">
