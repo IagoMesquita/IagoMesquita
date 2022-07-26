@@ -13,23 +13,36 @@ Atualmente formado como desenvolvedor full stack pela Trybe, estou cursondo o ú
   />
   <p>Front-End<p> 
 <div/>
-  
+ 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="Iago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Iago-Js" height="30" width="40" 
+   <img align="center" alt="Iago-Js" height="30" width="40" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="center" alt="Iago-Js" height="30" width="40"  
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Iago-Js" height="30" width="40"  
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="Iago-Js" height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Iago-Js" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Iago-Js" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Iago-Js" height="50" width="60"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
+   
 </div>
 
 ##
 
+<div style="display: block">
+   &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/84816200/181128670-68b2340f-f51b-4103-b366-d2cd111f3a78.png"      alt="drawing" width="50" 
+  />
+  <p>Back-End<p> 
+<div/>
+  
+<div style="display: inline_block"><br/>
+  
+</div>   
+<br/>
+   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagomesquita)](https://github.com/iagomesquita)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagomesquita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
