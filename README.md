@@ -37,7 +37,20 @@ Atualmente formado como desenvolvedor full stack pela Trybe, estou cursondo o ú
   />
   <p>Back-End<p> 
 <div/>
-  
+   <img align="center" alt="Iago-Js" height="50" width="60" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"  />
+   <img align="center" alt="Iago-Js" height="80" width="120"  
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="Iago-Js" height="50" width="60"  
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Iago-Js" height="50" width="60" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="center" alt="Iago-Js" height="80" width="120" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
+  <img align="center" alt="Iago-Js" height="50" width="60"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  />
+   <img align="center" alt="Iago-Js" height="50" width="60"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  />
 <div style="display: inline_block"><br/>
   
 </div>   
@@ -58,8 +71,8 @@ Atualmente formado como desenvolvedor full stack pela Trybe, estou cursondo o ú
   <a href="https://www.instagram.com/iagomesquita7/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:iagomesquitaalves@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:iago.m.alves@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank">
   </a>
 </div>  
 
