@@ -1,16 +1,30 @@
-### Olá! Meu nome é Iago Mesquita, tenho 31 anos e sou Desenvolvedor Full Stack Júnior👋
+### Olá! Meu nome é Iago Mesquita, tenho 31 anos e sou Desenvolvedor Mobile e web👋
 💧Formado em Administração de empresas revolvi migrar para área de **Desenvolvimento Web**, e para isso 
 escolhi a  [Trybe](https://www.betrybe.com/) para me guiar nessa caminhada.
-
-Atualmente formado como desenvolvedor full stack pela Trybe, estou cursondo o último módulo, Ciência da Computação, onde aprendemos Python, e assuntos interessantes como Raspagem de dados. Além das **hard skills** tenho foco também nas **soft skills**, sempre levando em conta uma <br/> **comunicação assertiva**; dar e receber **feedbacks**;  **trabalho em equipe**, **empatia**.<br/><br/>
-##
+Minha primeira oportunidade na  área de tecnologia foi em 2022. como QA. E foi ai que conhecime 
+e hoje desenvolvo também para mobile utilizando do framework Flutter.
 
 🌱 Conhecimentos:
 <br/><br/>
+
+  <h2>Mobile<h2> 
+<div/>
+ 
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Iago-Js" height="30" width="45"  
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img  align="center" alt="Iago-Js" height="30" width="45"  
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+</div>
+
+<br/>
+
 ##
+
 <div style="display: block">
    &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/84816200/146643244-ec677663-5002-4a5d-9450-571102995776.png"      alt="drawing" width="50" 
   />
+   
   <p>Front-End<p> 
 <div/>
  
@@ -25,9 +39,6 @@ Atualmente formado como desenvolvedor full stack pela Trybe, estou cursondo o ú
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Iago-Js" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Iago-Js" height="50" width="60"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
-   
 </div>
 
 ##
@@ -35,7 +46,7 @@ Atualmente formado como desenvolvedor full stack pela Trybe, estou cursondo o ú
 <div style="display: block">
    &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/84816200/181128670-68b2340f-f51b-4103-b366-d2cd111f3a78.png"      alt="drawing" width="50" 
   />
-  <p>Back-End<p> 
+  <p>Noções de Back-End e Ferrametas<p> 
 <div/>
    <img align="center" alt="Iago-Js" height="50" width="60" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"  />
@@ -49,8 +60,10 @@ Atualmente formado como desenvolvedor full stack pela Trybe, estou cursondo o ú
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
   <img align="center" alt="Iago-Js" height="50" width="60"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  />
-   <img align="center" alt="Iago-Js" height="50" width="60"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  />
+  <img align="center" alt="Iago-Js" height="50" width="60"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
+     <img align="center" alt="Iago-Js" height="50" width="60"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  />         
 <div style="display: inline_block"><br/>
   
 </div>   
