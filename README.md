@@ -1,26 +1,12 @@
-### Olá! Meu nome é Iago Mesquita, tenho 31 anos e sou Desenvolvedor Mobile e web👋
+### Olá! Meu nome é Iago Mesquita, tenho 31 anos e sou Desenvolvedor👋
 💧Formado em Administração de empresas revolvi migrar para área de **Desenvolvimento Web**, e para isso 
 escolhi a  [Trybe](https://www.betrybe.com/) para me guiar nessa caminhada.
-Minha primeira oportunidade na  área de tecnologia foi em 2022. como QA. E foi ai que conhecime 
-e hoje desenvolvo também para mobile utilizando do framework Flutter.
+Minha primeira oportunidade na  área de tecnologia foi em 2022, como QA. 
 
 🌱 Conhecimentos:
 <br/><br/>
 
-  <h2>Mobile<h2> 
-<div/>
  
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Iago-Js" height="30" width="45"  
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    <img  align="center" alt="Iago-Js" height="30" width="45"  
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-</div>
-
-<br/>
-
-##
-
 <div style="display: block">
    &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/84816200/146643244-ec677663-5002-4a5d-9450-571102995776.png"      alt="drawing" width="50" 
   />
