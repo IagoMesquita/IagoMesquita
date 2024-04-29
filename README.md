@@ -6,7 +6,41 @@ Minha primeira oportunidade na  área de tecnologia foi em 2022, como QA.
 🌱 Conhecimentos:
 <br/><br/>
 
+<div style="display: block">
+   &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/84816200/181128670-68b2340f-f51b-4103-b366-d2cd111f3a78.png"      alt="drawing" width="50" 
+  />
+  <p>Back-End e Ferrametas<p> 
+<div/>
+     
+   <img align="center" alt="Iago-Js" height="50" width="60" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>   
+   <img align="center" alt="Iago-Js" height="50" width="60" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
+   <img align="center" alt="Iago-Js" height="70" width="80" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"/>
+   <img align="center" alt="Iago-Js" height="50" width="60" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"  />
+   <img align="center" alt="Iago-Js" height="80" width="120"  
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="Iago-Js" height="50" width="60"  
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Iago-Js" height="50" width="60" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="center" alt="Iago-Js" height="80" width="120" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
+  <img align="center" alt="Iago-Js" height="50" width="60"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  />
+  <img align="center" alt="Iago-Js" height="50" width="60"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
+     <img align="center" alt="Iago-Js" height="50" width="60"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  />         
+<div style="display: inline_block"><br/>
+  
+</div>   
  
+
+##
+
 <div style="display: block">
    &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/84816200/146643244-ec677663-5002-4a5d-9450-571102995776.png"      alt="drawing" width="50" 
   />
@@ -27,32 +61,8 @@ Minha primeira oportunidade na  área de tecnologia foi em 2022, como QA.
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
 
-##
 
-<div style="display: block">
-   &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/84816200/181128670-68b2340f-f51b-4103-b366-d2cd111f3a78.png"      alt="drawing" width="50" 
-  />
-  <p>Noções de Back-End e Ferrametas<p> 
-<div/>
-   <img align="center" alt="Iago-Js" height="50" width="60" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"  />
-   <img align="center" alt="Iago-Js" height="80" width="120"  
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img align="center" alt="Iago-Js" height="50" width="60"  
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Iago-Js" height="50" width="60" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img align="center" alt="Iago-Js" height="80" width="120" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
-  <img align="center" alt="Iago-Js" height="50" width="60"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  />
-  <img align="center" alt="Iago-Js" height="50" width="60"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
-     <img align="center" alt="Iago-Js" height="50" width="60"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  />         
-<div style="display: inline_block"><br/>
-  
-</div>   
+
 <br/>
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagomesquita)](https://github.com/iagomesquita)<br/>
